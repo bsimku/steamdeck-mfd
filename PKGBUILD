@@ -4,6 +4,7 @@ pkgver=6.1
 pkgrel=1
 pkgdesc="SteamDeck MFD kernel modules"
 arch=(x86_64 i686)
+license=('GPL2')
 depends=(dkms)
 source=("git+https://github.com/bsimku/$_pkgname")
 sha256sums=(SKIP)
