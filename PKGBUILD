@@ -1,7 +1,7 @@
 _pkgname=steamdeck-mfd
 pkgname=steamdeck-mfd-dkms
 pkgver=6.1
-pkgrel=1
+pkgrel=2
 pkgdesc="SteamDeck MFD kernel modules"
 arch=(x86_64 i686)
 license=('GPL2')
